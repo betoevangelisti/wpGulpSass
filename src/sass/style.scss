@@ -1,0 +1,19 @@
+/*!
+Theme Name: WordPress Starter Theme + Simple Gulp Workflow + Sass
+Theme URI: 
+Description: Empty theme to start developing your own for WordPress
+Author: Humberto Muñoz Evangelisti (humu.cl)
+Version: 0.1
+*/
+
+// ==========================================================================
+@import "inc/html5reset.scss";
+@import "inc/mixins.scss";
+
+// ==========================================================================
+
+
+body {
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+}
+

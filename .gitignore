@@ -1,0 +1,17 @@
+# Ignorar archivos de workflow
+
+node_modules
+tmp
+.npm-debug.log
+.sass-cache
+*.css.map
+node_modules/
+/.DS_Store
+/dist/assets/.DS_Store
+/dist/.DS_Store
+/dist/assets/js/.DS_Store
+/src/.DS_Store
+/src/less/.DS_Store
+/dist/assets/images/.DS_Store
+/dist/src/images/.DS_Store
+.DS_Store

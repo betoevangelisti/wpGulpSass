@@ -1,0 +1,35 @@
+{
+  "name": "wp-gulp-sass",
+  "version": "1.0.0",
+  "description": "Tema automatizado con Gulp y Sass",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betoevangelisti/wpGulpSass.git"
+  },
+  "keywords": [
+    "Gulp",
+    "Sass",
+    "Wordpress"
+  ],
+  "author": "Beto Muñoz (humu)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/betoevangelisti/wpGulpSass/issues"
+  },
+  "homepage": "https://github.com/betoevangelisti/wpGulpSass#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^4.0.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-livereload": "^3.8.1",
+    "gulp-notify": "^3.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^4.3.11",
+    "jshint": "^2.9.5"
+  }
+}
