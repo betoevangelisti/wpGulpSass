@@ -71,7 +71,7 @@ var onError = function(err) {
 	gulp.task('watch', function(){
 		livereload.listen()
 		gulp.watch('./src/sass/**/*.scss', ['sass'])
-		gulp.watch('./js/custom/**/*.js', ['js'])
+		gulp.watch('./src/js/custom/**/*.js', ['js'])
 		gulp.watch('./src/images/**/*.*', ['imagemin'])
 	});
 
